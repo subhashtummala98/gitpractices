@@ -1,3 +1,6 @@
 class sample{
 public static void main(string args[]){
-system.out.println("Helloworld")}}
+system.out.println("Helloworld")
+system.out.println("This is firt git practice")
+}
+}
